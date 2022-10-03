@@ -13,7 +13,7 @@ while True:
     print('2. borrar contacto')
     print('3. ver contactos existentes')
     print('4. Salir')
-    opcion = int(input('digite una opcion de menu: '))
+    opcion = int(input('digite una opción de menu: '))
     if opcion == 1:
         nombre = input('ingrese el nombre del contacto: ')
         telefono = input('ingrese el nro de telefono: ')
